@@ -19,8 +19,8 @@ const paragraph6_4 = {
 };
 
 const paragraph6_5 = {
-  header: ``,
-  content: ``
+  header: `4. W przypadku lekcji konwersacyjnych cena obejmuje same zajęcia, raporty podsumowujące każde spotkanie – zawierające przerobione słownictwo i frazeologię – oraz bezpłatny dostęp do platformy englishconversations.pl.`,
+  content: `Platforma ta została opisana powyżej w sekcji "Lekcje konwersacyjne"`
 };
 
 const paragraph6_6 = {

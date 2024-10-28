@@ -1,5 +1,5 @@
 import { paragraph1_1, paragraph1_2, paragraph1_3, paragraph1_4, paragraph1_5, paragraph1_6, paragraph1_7 } from './section1';
-import { paragraph2a_1, paragraph2a_2, paragraph2a_3, paragraph2a_4, paragraph2a_5 } from './section2a';
+import { paragraph2a_1, paragraph2a_2, paragraph2a_3, paragraph2a_4, paragraph2a_5, paragraph2a_6 } from './section2a';
 import { paragraph2b_1, paragraph2b_2, paragraph2b_3, paragraph2b_4, paragraph2b_5 } from './section2b';
 import { paragraph3_1, paragraph3_2, paragraph3_3, paragraph3_4, paragraph3_5, paragraph3_6, paragraph3_7, paragraph3_8, paragraph3_9} from './section3';
 import { paragraph4_1, paragraph4_2, paragraph4_3, paragraph4_4, paragraph4_5 } from './section4';
@@ -36,7 +36,7 @@ const sections = [
   {
     id: "section2a",
     header: "Lekcje konwersacyjne",
-    text: [paragraph2a_1, paragraph2a_2, paragraph2a_3, paragraph2a_4, paragraph2a_5],
+    text: [paragraph2a_1, paragraph2a_2, paragraph2a_3, paragraph2a_4, paragraph2a_5, paragraph2a_6],
     image: rozwiazanie
   },
   {

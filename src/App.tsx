@@ -16,6 +16,7 @@ import Footer from './components/Footer';
 import Popup from './components/Popup';
 import PopupContent from './components/PopupContent130924';
 import PriceList from './components/PriceList';
+import EnglishConversations from './components/EnglishConversations';
 
 import { scrollToSection } from './utils';
 
@@ -118,6 +119,14 @@ const handleImageClick = () => {
                           />
                         )}
 
+                       {section.id === 'section2a' && i === 4 && <EnglishConversations/>}
+
+                       {section.id === 'section2a' && i === 5 && (
+                           <p><a href="https://englishconversations.pl/" target="_blank" rel="noopener noreferrer">
+                              https://englishconversations.pl/
+                            </a></p>
+                           )}
+
                         {section.id === 'section2b' && i === 3 && (
                           <p>
                             Zapytaj się o{' '}
@@ -166,11 +175,3 @@ const handleImageClick = () => {
   }
 
   export default App;
-
-// Dla Kogo Jest Moja Metoda
-//                       Moja metoda nie jest dla każdego. Jest idealna dla tych, którzy:
-//
-//                       Rozumieją, na czym polega naturalne, poprawne wysławianie się
-//                       Chcą od razu ćwiczyć właściwy sposób formułowania myśli
-//                       Wolą naśladować native speakerów zamiast tworzyć własne konstrukcje językowe
-//                       Są zaangażowani w naukę i lubią kontakt z żywym językiem`;
