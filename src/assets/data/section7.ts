@@ -1,16 +1,16 @@
 const paragraph7_1 = {
   header: ``,
-  content: `Zajęcia indywidualne odbywają się online lub u mnie na warszawskim Gocławiu, albo u ucznia.`
+  content: `Ze względu na to, że wykorzystuję platformę oraz różnorodne zasoby internetowe, zajęcia prowadzę online. W wyjątkowych sytuacjach mogę także dojeżdżać do ucznia.`
 };
 
 const paragraph7_2 = {
   header: ``,
-  content: `Zajęcia grupowe odbywają się u klienta lub w centrum w Warszawie (dokładna lokalizacja jest w trakcie ustalania)`
+  content: ``
 };
 
 const paragraph7_3 = {
   header: ``,
-  content: `Warsztaty językowe odbywają się w różnych miejscach w Polsce.`
+  content: ``
 };
 
 const paragraph7_4 = {

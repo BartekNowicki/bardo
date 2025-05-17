@@ -46,7 +46,7 @@ const sections = [
         {
           id: 'course1',
           title: 'Konwersacje ogólne',
-          description: 'Join our General English Conversation class, designed for anyone looking to improve their fluency and confidence in everyday English. Whether you’re preparing for travel, work, or simply want to enhance your communication skills, this class provides a friendly, relaxed environment to practice speaking. You’ll engage in discussions on various topics, expand your vocabulary, and improve your pronunciation while receiving personalized feedback. Perfect for learners of all levels who want to speak English more naturally and confidently.',
+          description: 'Join my General English Conversation class, designed for anyone looking to improve their fluency and confidence in everyday English. Whether you’re preparing for travel, work, or simply want to enhance your communication skills, this class provides a friendly, relaxed environment to practice speaking. You’ll engage in discussions on various topics, expand your vocabulary, and improve your pronunciation while receiving personalized feedback. Perfect for learners of all levels who want to speak English more naturally and confidently.',
           image: english_general,
         },
         {

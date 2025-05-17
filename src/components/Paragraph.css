@@ -1,0 +1,33 @@
+.collapsible-paragraph {
+  margin-bottom: 1.5rem;
+}
+
+.collapsible-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  background-color: #f2f2f2; /* Light grayish background */
+  padding: 8px 12px;
+  border-radius: 6px;
+}
+
+
+.paragraph-header {
+  font-weight: bold;
+}
+
+.expand-button {
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  font-weight: bold;
+  cursor: pointer;
+  color: #007acc;
+  padding: 0 8px;
+}
+
+.collapsible-content {
+  margin-top: 0.5rem;
+  color: #444;
+}

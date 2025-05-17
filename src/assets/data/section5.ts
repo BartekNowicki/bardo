@@ -4,23 +4,23 @@ const paragraph5_1 = {
 };
 
 const paragraph5_2 = {
-  header: `Nowe grupy konwersacyjne (3 - 5 osób w grupie)`,
-  content: ` startujące we wrześniu 2024 to:`
+  header: ``,
+  content: ``
 };
 
 const paragraph5_3 = {
   header: ``,
-  content: `GRUPA 1: wtorki g. 18:00 - 19:00`
+  content: ``
 };
 
 const paragraph5_4 = {
   header: ``,
-  content: `GRUPA 2: czwartki g. 18:00 - 19:00`
+  content: ``
 };
 
 const paragraph5_5 = {
   header: ``,
-  content: `Są jeszcze wolne miejsca w obu grupach, zapisy trwają :)`
+  content: ``
 };
 
 const paragraph5_6 = {

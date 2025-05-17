@@ -9,6 +9,8 @@ import KazimierzDolny from './assets/KazimierzDolny.jpg';
 import sections from './assets/data/sections';
 
 import Paragraph from './components/Paragraph';
+import CollapsibleParagraph from './components/CollapsibleParagraph';
+
 import Header from './components/Header';
 import EslDialog from './components/EslDialog';
 import Contact from './components/Contact';
@@ -29,10 +31,10 @@ const handleImageClick = () => {
     setIsPopupOpen(true);
   };
 
-  const closePopup = () => {
-    setIsPopupOpen(false);
-    setPopupContent(null);
-  };
+const closePopup = () => {
+  setIsPopupOpen(false);
+  setPopupContent(null);
+};
 
    useEffect(() => {
       // Check if there's a hash in the URL
@@ -65,7 +67,7 @@ const handleImageClick = () => {
                       {course.id === "course1" && (
                               <>
                                 <p>
-                                  Unless a student suggests otherwise, in this class we will mostly use
+                                  Unless you suggest otherwise, we will mostly use
                                   these kinds of dialogs as a starter for:
                                 </p>
                                 <ul>
@@ -79,9 +81,9 @@ const handleImageClick = () => {
                             )}
                         {course.id === 'course10' || course.id === 'course5' ? (
                                                 <PriceList
-                                                  price1="50zł"
-                                                  price2="30zł/osoba"
-                                                  price3="75zł/grupa"
+                                                  price1="80zł"
+                                                  price2="60zł/osoba"
+                                                  price3="120zł/grupa"
                                                 />
                                               ) : (
                                                 <PriceList />
@@ -105,11 +107,18 @@ const handleImageClick = () => {
                             : ''
                         }
                       >
-                        <Paragraph
-                          key={i}
-                          header={paragraph.header}
-                          content={paragraph.content}
-                        />
+                        {section.id === 'section1' ? (
+                          <CollapsibleParagraph
+                            header={paragraph.header}
+                            content={paragraph.content}
+                          />
+                        ) : (
+                          <Paragraph
+                            header={paragraph.header}
+                            content={paragraph.content}
+                          />
+                        )}
+
 
                         {section.id === 'section3' && i === 4 && (
                           <img

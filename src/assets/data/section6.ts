@@ -4,12 +4,12 @@ const paragraph6_1 = {
 };
 
 const paragraph6_2 = {
-  header: `1. Ceny podane pod opisem zajęć dotyczą spotkań u mnie (Warszawa - Gocław) lub online.`,
+  header: `1. Ceny podane pod opisem zajęć dotyczą spotkań online.`,
   content: ``
 };
 
 const paragraph6_3 = {
-  header: `2. W przypadku konwersacji indywidualnych z dojazdem do ucznia poza obszar Gocławia/Saskiej Kępy do podanej ceny należy doliczyć +20zł`,
+  header: `2. W przypadku konwersacji indywidualnych z dojazdem do ucznia poza obszar Gocławia do podanej ceny należy doliczyć +30zł`,
   content: ``
 };
 
@@ -19,7 +19,7 @@ const paragraph6_4 = {
 };
 
 const paragraph6_5 = {
-  header: `4. W przypadku lekcji konwersacyjnych cena obejmuje same zajęcia, raporty podsumowujące każde spotkanie – zawierające przerobione słownictwo i frazeologię – oraz bezpłatny dostęp do platformy englishconversations.pl.`,
+  header: `4. W przypadku lekcji konwersacyjnych cena obejmuje zajęcia, raporty podsumowujące każde spotkanie – zawierające przerobione słownictwo i frazeologię – oraz bezpłatny dostęp do platformy englishconversations.pl.`,
   content: `Platforma ta została opisana powyżej w sekcji "Lekcje konwersacyjne"`
 };
 
