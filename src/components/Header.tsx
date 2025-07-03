@@ -18,7 +18,7 @@ const Header: React.FC = () => {
       <div className="header-content">
         <div className="navbar-email">
           <FontAwesomeIcon icon={faEnvelope} />
-          <span>bardo@bardo.edu.pl</span>
+          <span>bartosznowickihq@gmail.com</span>
           <a href="https://www.facebook.com/BardoLanguageDevelopment" target="_blank" rel="noopener noreferrer" className="facebook-icon">
               <FontAwesomeIcon icon={faFacebook} />
           </a>
