@@ -4,7 +4,7 @@ import { faFacebook } from '@fortawesome/free-brands-svg-icons';
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 
 const Contact: React.FC = () => {
-  const emailAddress = 'bardo@bardo.edu.pl';
+  const emailAddress = 'bartosznowickihq@gmail.com';
   const fbMessengerLink = 'https://m.me/BardoLanguageDevelopment';
 
   const handleCopyEmail = () => {
