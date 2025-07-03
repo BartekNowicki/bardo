@@ -62,7 +62,7 @@ const PopupContent130924: React.FC = () => (
 
     <p>This workshop is intended for intermediate learners, but if you feel confident and believe you're at an advanced level, you're also welcome to join us.</p>
 
-    <p><strong>The group will consist of only 5 participants, so reach out quickly to secure your spot!</p>
+    <p>The group will consist of only 5 participants, so reach out quickly to secure your spot!</p>
 
     <p>I'll be more than happy to answer any questions you might have, feel free to reach out to me :) </p>
 
