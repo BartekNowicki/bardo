@@ -30,11 +30,11 @@ const Contact: React.FC = () => {
         <div className="email">
             <FontAwesomeIcon icon={faEnvelope} />
             <span>bartosznowickihq@gmail.com</span>
-                  <a href="https://www.facebook.com/BardoLanguageDevelopment" target="_blank" rel="noopener noreferrer" className="facebook-icon">
-                      <FontAwesomeIcon icon={faFacebook} />
+                  {/*<a href="https://www.facebook.com/BardoLanguageDevelopment" target="_blank" rel="noopener noreferrer" className="facebook-icon">
+                      <FontAwesomeIcon icon={faFacebook} />*/}
                   </a>
         </div>
-           <div className="button-group">
+           {/*<div className="button-group">
                <button
                  className="modern-button"
                  onClick={() => {
@@ -61,7 +61,7 @@ const Contact: React.FC = () => {
                  }}>
                  Wyślij wiadomość przez Messenger
                </button>
-           </div>
+           </div>*/}
     </div>
   );
 };
