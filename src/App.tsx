@@ -5,7 +5,7 @@ import React, { useState, useEffect } from 'react';
 
 import bardo from './assets/bardo.jpg';
 import Bartek_interpreting from './assets/Bartek_interpreting.jpg';
-import KazimierzDolny from './assets/KazimierzDolny.jpg';
+// import KazimierzDolny from './assets/KazimierzDolny.jpg';
 import sections from './assets/data/sections';
 
 import Paragraph from './components/Paragraph';
@@ -16,9 +16,9 @@ import EslDialog from './components/EslDialog';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Popup from './components/Popup';
-import PopupContent from './components/PopupContent130924';
+// import PopupContent from './components/PopupContent130924';
 import PriceList from './components/PriceList';
-import EnglishConversations from './components/EnglishConversations';
+// import EnglishConversations from './components/EnglishConversations';
 
 import { scrollToSection } from './utils';
 
@@ -26,10 +26,10 @@ function App() {
 const [isPopupOpen, setIsPopupOpen] = useState(false);
 const [popupContent, setPopupContent] = useState<React.ReactNode>(null);
 
-const handleImageClick = () => {
-    setPopupContent(<PopupContent />);
-    setIsPopupOpen(true);
-  };
+// const handleImageClick = () => {
+//     setPopupContent(<PopupContent />);
+//     setIsPopupOpen(true);
+//   };
 
 const closePopup = () => {
   setIsPopupOpen(false);
