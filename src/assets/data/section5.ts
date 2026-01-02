@@ -23,9 +23,14 @@ const paragraph5_5 = {
   content: ``
 };
 
+// const paragraph5_6 = {
+//   header: `Kolejna edycja wyjazdowego warsztatu językowego odbędzie się w pięknym Kazimierzu Dolnym.`,
+//   content: ` Więcej informacji znajdziesz klikając tutaj:`
+// };
+
 const paragraph5_6 = {
-  header: `Kolejna edycja wyjazdowego warsztatu językowego odbędzie się w pięknym Kazimierzu Dolnym.`,
-  content: ` Więcej informacji znajdziesz klikając tutaj:`
+  header: ``,
+  content: ``
 };
 
 const paragraph5_7 = {

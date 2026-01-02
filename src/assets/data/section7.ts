@@ -1,6 +1,11 @@
+// const paragraph7_1 = {
+//   header: ``,
+//   content: `Ze względu na to, że wykorzystuję platformę oraz różnorodne zasoby internetowe, zajęcia prowadzę online. W wyjątkowych sytuacjach mogę także dojeżdżać do ucznia.`
+// };
+
 const paragraph7_1 = {
   header: ``,
-  content: `Ze względu na to, że wykorzystuję platformę oraz różnorodne zasoby internetowe, zajęcia prowadzę online. W wyjątkowych sytuacjach mogę także dojeżdżać do ucznia.`
+  content: `Zajęcia prowadzę online lub u ucznia, w zależności od lokalizacji i możliwości dojazdu.`
 };
 
 const paragraph7_2 = {

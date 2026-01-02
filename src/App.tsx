@@ -81,9 +81,9 @@ const closePopup = () => {
                             )}
                         {course.id === 'course10' || course.id === 'course5' ? (
                                                 <PriceList
-                                                  price1="80zł"
+                                                  price1="120zł"
                                                   price2="60zł/osoba"
-                                                  price3="120zł/grupa"
+                                                  price3="140zł/grupa"
                                                 />
                                               ) : (
                                                 <PriceList />
@@ -128,13 +128,16 @@ const closePopup = () => {
                           />
                         )}
 
+                       {/*
                        {section.id === 'section2a' && i === 4 && <EnglishConversations/>}
+
 
                        {section.id === 'section2a' && i === 5 && (
                            <p><a href="https://englishconversations.pl/" target="_blank" rel="noopener noreferrer">
                               https://englishconversations.pl/
                             </a></p>
                            )}
+
 
                         {section.id === 'section2b' && i === 3 && (
                           <p>
@@ -152,6 +155,7 @@ const closePopup = () => {
                           </p>
                         )}
 
+
                         {section.id === 'section5' && i === 5 && (
                           <div id="kazimierz-dolny">
                             <img
@@ -163,6 +167,8 @@ const closePopup = () => {
                             />
                           </div>
                         )}
+
+                       */}
                       </div>
                     ))
                   ) : (

@@ -23,10 +23,15 @@ const paragraph2a_5 = {
   content: ` zawierające to, co jest potrzebne, aby rozwijać umiejętność formułowania naturalnych wypowiedzi.`
 };
 
+// const paragraph2a_6 = {
+//   header: `
+// Materiały wykorzystywane podczas lekcji udostępniam na mojej platformie https://englishconversations.pl/. `,
+//   content: ` Możesz tam także zapisywać nowe słownictwo i frazeologię, a następnie ćwiczyć i powtarzać je przy pomocy różnych narzędzi, takich jak fiszki.`
+// };
+
 const paragraph2a_6 = {
-  header: `
-Materiały wykorzystywane podczas lekcji udostępniam na mojej platformie https://englishconversations.pl/. `,
-  content: ` Możesz tam także zapisywać nowe słownictwo i frazeologię, a następnie ćwiczyć i powtarzać je przy pomocy różnych narzędzi, takich jak fiszki.`
+  header: ``,
+  content: ``
 };
 
 export { paragraph2a_1, paragraph2a_2, paragraph2a_3, paragraph2a_4, paragraph2a_5, paragraph2a_6 };

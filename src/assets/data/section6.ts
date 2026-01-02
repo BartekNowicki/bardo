@@ -1,6 +1,6 @@
 const paragraph6_1 = {
   header: ``,
-  content: `*** uwaga, zniżka happy hours :) W godzinach 8:00 - 14:00 udzielam 10% rabatu ***`
+  content: `*** uwaga, zniżka happy hours :) W godzinach 8:00 - 14:00 udzielam 10zł rabatu ***`
 };
 
 const paragraph6_2 = {
@@ -9,7 +9,7 @@ const paragraph6_2 = {
 };
 
 const paragraph6_3 = {
-  header: `2. W przypadku konwersacji indywidualnych z dojazdem do ucznia poza obszar Gocławia do podanej ceny należy doliczyć +30zł`,
+  header: `2. W przypadku konwersacji indywidualnych z dojazdem do ucznia poza obszar Gocławia cena ustalana jest indywidualnie w zależności od lokalizacji.`,
   content: ``
 };
 
@@ -18,9 +18,14 @@ const paragraph6_4 = {
   content: ``
 };
 
+// const paragraph6_5 = {
+//   header: `4. W przypadku lekcji konwersacyjnych cena obejmuje zajęcia, raporty podsumowujące każde spotkanie – zawierające przerobione słownictwo i frazeologię – oraz bezpłatny dostęp do platformy englishconversations.pl.`,
+//   content: `Platforma ta została opisana powyżej w sekcji "Lekcje konwersacyjne"`
+// };
+
 const paragraph6_5 = {
-  header: `4. W przypadku lekcji konwersacyjnych cena obejmuje zajęcia, raporty podsumowujące każde spotkanie – zawierające przerobione słownictwo i frazeologię – oraz bezpłatny dostęp do platformy englishconversations.pl.`,
-  content: `Platforma ta została opisana powyżej w sekcji "Lekcje konwersacyjne"`
+  header: ``,
+  content: ``
 };
 
 const paragraph6_6 = {
