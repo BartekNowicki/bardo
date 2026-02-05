@@ -2,7 +2,6 @@ import person from '../assets/person.png';
 import plus from '../assets/plus.png';
 
 const PriceList = ({ price1 = '120zł', price2 = '60zł/osoba', price3 = '140zł/grupa' }) => {
-  // Casting style to React.CSSProperties
   const priceListStyle: React.CSSProperties = {
     display: 'flex',
     flexDirection: 'column',
