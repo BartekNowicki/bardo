@@ -206,13 +206,12 @@ export default function EnglishInSportsAndMovementPage() {
               March 2026 group schedule · in person
             </h3>
 
-            <div style={{ opacity: 0.9, marginBottom: 12 }}>
-              Choose <strong>one</strong> group (Tuesday <strong>or</strong> Thursday).
-            </div>
-
-
             <div style={{ opacity: 0.9, marginBottom: 14 }}>
               📍 ulica Dobra, Powiśle, Warszawa
+            </div>
+
+            <div style={{ opacity: 0.9, marginBottom: 12 }}>
+                 Choose <strong>one</strong> group:
             </div>
 
             <div
@@ -231,6 +230,16 @@ export default function EnglishInSportsAndMovementPage() {
               <div>
                 <div style={{ fontWeight: 600 }}>Thursday</div>
                 <div style={{ fontSize: 18 }}>12:00 pm</div>
+              </div>
+
+              <div>
+                <div style={{ fontWeight: 600 }}>Friday</div>
+                <div style={{ fontSize: 18 }}>2:00 pm</div>
+              </div>
+
+              <div>
+                <div style={{ fontWeight: 600 }}>Saturday</div>
+                <div style={{ fontSize: 18 }}>10:00 am</div>
               </div>
             </div>
 
